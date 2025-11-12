@@ -1,1 +1,7 @@
 yfinance
+kafka-python
+psycopg2
+dotenv
+streamlit 
+psycopg2-binary 
+pandas
