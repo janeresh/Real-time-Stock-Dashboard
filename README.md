@@ -54,3 +54,5 @@ Run this in new terminal. Make sure venv is initialised in this terminal.
 ```
 python -m streamlit run app.py
 ```
+### Screenshot of Streamlit dashboard
+<img width="1213" height="862" alt="image" src="https://github.com/user-attachments/assets/834d8893-f51c-4be6-a382-dc321c6f18e9" />
